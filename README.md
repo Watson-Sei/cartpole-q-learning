@@ -1,5 +1,10 @@
 # OpenAI Gym Cartpole Q-learning
 
+
+https://github.com/Watson-Sei/cartpole-q-learning/assets/55475145/da4d4614-978d-4683-b5e7-f2c213106b51
+
+
+
 ## 処理ステップ
 1. Q-Networkクラスの定義
 - 全結合層（fc1, fc2, fc3)を定義
